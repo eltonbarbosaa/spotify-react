@@ -5,9 +5,11 @@
 
 Interface inspirada no Spotify construída em **React** (Create React App), como prática de componentização e estilização.
 
+![Screenshot do componente Header](screenshot.png)
+
 ## Sobre
 
-Projeto de estudo focado em estruturar uma interface em componentes React reutilizáveis — começando pelo componente `Header`, com seu próprio CSS isolado (`Header.css`).
+Projeto de estudo focado em estruturar uma interface em componentes React reutilizáveis — começando pelo componente `Header`, com seu próprio CSS isolado (`Header.css`). Até o momento, é o único componente implementado (é o que aparece no screenshot acima).
 
 ## Stack
 
